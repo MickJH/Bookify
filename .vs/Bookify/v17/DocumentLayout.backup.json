@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mick.Holster\\Bureaublad\\CleanArchitecture\\Bookify\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6962693C-2CD2-4996-9C99-90F4B4FEC7A9}|Bookify.Domain\\Bookify.Domain.csproj|c:\\users\\mick.holster\\bureaublad\\cleanarchitecture\\bookify\\bookify.domain\\abstractions\\idomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6962693C-2CD2-4996-9C99-90F4B4FEC7A9}|Bookify.Domain\\Bookify.Domain.csproj|solutionrelative:bookify.domain\\abstractions\\idomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6962693C-2CD2-4996-9C99-90F4B4FEC7A9}|Bookify.Domain\\Bookify.Domain.csproj|c:\\users\\mick.holster\\bureaublad\\cleanarchitecture\\bookify\\bookify.domain\\abstractions\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6962693C-2CD2-4996-9C99-90F4B4FEC7A9}|Bookify.Domain\\Bookify.Domain.csproj|solutionrelative:bookify.domain\\abstractions\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6962693C-2CD2-4996-9C99-90F4B4FEC7A9}|Bookify.Domain\\Bookify.Domain.csproj|c:\\users\\mick.holster\\bureaublad\\cleanarchitecture\\bookify\\bookify.domain\\bookify.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6962693C-2CD2-4996-9C99-90F4B4FEC7A9}|Bookify.Domain\\Bookify.Domain.csproj|solutionrelative:bookify.domain\\bookify.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6962693C-2CD2-4996-9C99-90F4B4FEC7A9}|Bookify.Domain\\Bookify.Domain.csproj|c:\\users\\mick.holster\\bureaublad\\cleanarchitecture\\bookify\\bookify.domain\\appartments\\records\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6962693C-2CD2-4996-9C99-90F4B4FEC7A9}|Bookify.Domain\\Bookify.Domain.csproj|solutionrelative:bookify.domain\\appartments\\records\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6962693C-2CD2-4996-9C99-90F4B4FEC7A9}|Bookify.Domain\\Bookify.Domain.csproj|c:\\users\\mick.holster\\bureaublad\\cleanarchitecture\\bookify\\bookify.domain\\shared\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6962693C-2CD2-4996-9C99-90F4B4FEC7A9}|Bookify.Domain\\Bookify.Domain.csproj|solutionrelative:bookify.domain\\shared\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6962693C-2CD2-4996-9C99-90F4B4FEC7A9}|Bookify.Domain\\Bookify.Domain.csproj|c:\\users\\mick.holster\\bureaublad\\cleanarchitecture\\bookify\\bookify.domain\\abstractions\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6962693C-2CD2-4996-9C99-90F4B4FEC7A9}|Bookify.Domain\\Bookify.Domain.csproj|solutionrelative:bookify.domain\\abstractions\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6962693C-2CD2-4996-9C99-90F4B4FEC7A9}|Bookify.Domain\\Bookify.Domain.csproj|c:\\users\\mick.holster\\bureaublad\\cleanarchitecture\\bookify\\bookify.domain\\appartments\\amenity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6962693C-2CD2-4996-9C99-90F4B4FEC7A9}|Bookify.Domain\\Bookify.Domain.csproj|solutionrelative:bookify.domain\\appartments\\amenity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IDomainEvent.cs",
+              "DocumentMoniker": "C:\\Users\\Mick.Holster\\Bureaublad\\CleanArchitecture\\Bookify\\Bookify.Domain\\Abstractions\\IDomainEvent.cs",
+              "RelativeDocumentMoniker": "Bookify.Domain\\Abstractions\\IDomainEvent.cs",
+              "ToolTip": "C:\\Users\\Mick.Holster\\Bureaublad\\CleanArchitecture\\Bookify\\Bookify.Domain\\Abstractions\\IDomainEvent.cs",
+              "RelativeToolTip": "Bookify.Domain\\Abstractions\\IDomainEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T10:09:43.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\Mick.Holster\\Bureaublad\\CleanArchitecture\\Bookify\\Bookify.Domain\\Appartments\\Records\\Address.cs",
+              "RelativeDocumentMoniker": "Bookify.Domain\\Appartments\\Records\\Address.cs",
+              "ToolTip": "C:\\Users\\Mick.Holster\\Bureaublad\\CleanArchitecture\\Bookify\\Bookify.Domain\\Appartments\\Records\\Address.cs",
+              "RelativeToolTip": "Bookify.Domain\\Appartments\\Records\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T10:01:42.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Currency.cs",
+              "DocumentMoniker": "C:\\Users\\Mick.Holster\\Bureaublad\\CleanArchitecture\\Bookify\\Bookify.Domain\\Shared\\Currency.cs",
+              "RelativeDocumentMoniker": "Bookify.Domain\\Shared\\Currency.cs",
+              "ToolTip": "C:\\Users\\Mick.Holster\\Bureaublad\\CleanArchitecture\\Bookify\\Bookify.Domain\\Shared\\Currency.cs",
+              "RelativeToolTip": "Bookify.Domain\\Shared\\Currency.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T09:53:20.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Mick.Holster\\Bureaublad\\CleanArchitecture\\Bookify\\Bookify.Domain\\Abstractions\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Bookify.Domain\\Abstractions\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Mick.Holster\\Bureaublad\\CleanArchitecture\\Bookify\\Bookify.Domain\\Abstractions\\IUnitOfWork.cs",
+              "RelativeToolTip": "Bookify.Domain\\Abstractions\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T09:23:20.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\Mick.Holster\\Bureaublad\\CleanArchitecture\\Bookify\\Bookify.Domain\\Abstractions\\Entity.cs",
+              "RelativeDocumentMoniker": "Bookify.Domain\\Abstractions\\Entity.cs",
+              "ToolTip": "C:\\Users\\Mick.Holster\\Bureaublad\\CleanArchitecture\\Bookify\\Bookify.Domain\\Abstractions\\Entity.cs",
+              "RelativeToolTip": "Bookify.Domain\\Abstractions\\Entity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T08:36:49.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bookify.Domain",
+              "DocumentMoniker": "C:\\Users\\Mick.Holster\\Bureaublad\\CleanArchitecture\\Bookify\\Bookify.Domain\\Bookify.Domain.csproj",
+              "RelativeDocumentMoniker": "Bookify.Domain\\Bookify.Domain.csproj",
+              "ToolTip": "C:\\Users\\Mick.Holster\\Bureaublad\\CleanArchitecture\\Bookify\\Bookify.Domain\\Bookify.Domain.csproj",
+              "RelativeToolTip": "Bookify.Domain\\Bookify.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-11T08:28:56.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Amenity.cs",
+              "DocumentMoniker": "C:\\Users\\Mick.Holster\\Bureaublad\\CleanArchitecture\\Bookify\\Bookify.Domain\\Appartments\\Amenity.cs",
+              "RelativeDocumentMoniker": "Bookify.Domain\\Appartments\\Amenity.cs",
+              "ToolTip": "C:\\Users\\Mick.Holster\\Bureaublad\\CleanArchitecture\\Bookify\\Bookify.Domain\\Appartments\\Amenity.cs",
+              "RelativeToolTip": "Bookify.Domain\\Appartments\\Amenity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T08:29:28.021Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
