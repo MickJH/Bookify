@@ -58,13 +58,19 @@ namespace Bookify.Application.Bookings.ReserveBooking
             }
 
             // Reserve booking
-            var booking = Booking.Reserve(appartment, user.Id, duration, utcNow: _dateTimeProvider.UtcNow, _pricingService);
+            try
+            {
+                var booking = Booking.Reserve(appartment, user.Id, duration, _dateTimeProvider.UtcNow, _pricingService);
 
-            _bookingRepository.Add(booking);
+                _bookingRepository.Add(booking);
 
-            await _unitOfWork.SaveChangesAsync();
+                await _unitOfWork.SaveChangesAsync(cancellationToken);
 
-            return booking.Id;
+                return booking.Id;
+            } catch (Exception ex)
+            {
+                return Result.Failure<Guid>(BookingErrors.Overlap);
+            }
         }
     }   
      
