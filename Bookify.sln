@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bookify.Application", "Book
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bookify.Infrastructure", "Bookify.Infrastructure\Bookify.Infrastructure.csproj", "{41B3D5C4-E6F3-48F9-A5AB-4ADB746C6DA6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bookify.Api", "Bookify.Api\Bookify.Api.csproj", "{45B1D739-DFED-4B43-B2D7-338592A6394C}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{8C5BB630-2535-4436-8E6F-EEBC2376F54F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +35,14 @@ Global
 		{41B3D5C4-E6F3-48F9-A5AB-4ADB746C6DA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{41B3D5C4-E6F3-48F9-A5AB-4ADB746C6DA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{41B3D5C4-E6F3-48F9-A5AB-4ADB746C6DA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45B1D739-DFED-4B43-B2D7-338592A6394C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45B1D739-DFED-4B43-B2D7-338592A6394C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45B1D739-DFED-4B43-B2D7-338592A6394C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45B1D739-DFED-4B43-B2D7-338592A6394C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C5BB630-2535-4436-8E6F-EEBC2376F54F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C5BB630-2535-4436-8E6F-EEBC2376F54F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C5BB630-2535-4436-8E6F-EEBC2376F54F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C5BB630-2535-4436-8E6F-EEBC2376F54F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -39,5 +51,6 @@ Global
 		{6962693C-2CD2-4996-9C99-90F4B4FEC7A9} = {B1FBFEA9-5E3B-470C-B087-B21D3343A149}
 		{0A9FC947-01B8-4D3C-B59F-4E75283CC7F1} = {B1FBFEA9-5E3B-470C-B087-B21D3343A149}
 		{41B3D5C4-E6F3-48F9-A5AB-4ADB746C6DA6} = {B1FBFEA9-5E3B-470C-B087-B21D3343A149}
+		{45B1D739-DFED-4B43-B2D7-338592A6394C} = {B1FBFEA9-5E3B-470C-B087-B21D3343A149}
 	EndGlobalSection
 EndGlobal
