@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "Bookify.Domain\\Abstractions\\IDomainEvent.cs",
               "ToolTip": "C:\\Users\\Mick.Holster\\Bureaublad\\CleanArchitecture\\Bookify\\Bookify.Domain\\Abstractions\\IDomainEvent.cs",
               "RelativeToolTip": "Bookify.Domain\\Abstractions\\IDomainEvent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-11T10:09:43.325Z",
               "EditorCaption": ""
@@ -108,12 +108,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Bookify.Domain",
+              "Title": "Bookify.Domain.csproj",
               "DocumentMoniker": "C:\\Users\\Mick.Holster\\Bureaublad\\CleanArchitecture\\Bookify\\Bookify.Domain\\Bookify.Domain.csproj",
               "RelativeDocumentMoniker": "Bookify.Domain\\Bookify.Domain.csproj",
               "ToolTip": "C:\\Users\\Mick.Holster\\Bureaublad\\CleanArchitecture\\Bookify\\Bookify.Domain\\Bookify.Domain.csproj",
               "RelativeToolTip": "Bookify.Domain\\Bookify.Domain.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-02-11T08:28:56.515Z",
               "EditorCaption": ""
