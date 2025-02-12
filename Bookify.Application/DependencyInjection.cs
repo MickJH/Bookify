@@ -20,7 +20,7 @@ namespace Bookify.Application
                 configuration.AddOpenBehavior(typeof(ValidationBehaviour<,>));
             });
 
-            services.AddValidatorsFromAssemblies((IEnumerable<System.Reflection.Assembly>)typeof(DependencyInjection).Assembly);
+            services.AddValidatorsFromAssembly(typeof(DependencyInjection).Assembly);
 
             services.AddTransient<PricingService>();
 

@@ -13,6 +13,8 @@ namespace Bookify.Domain.Bookings
 {
     public sealed class Booking : Entity
     {
+        // Empty constructor for Database Migration
+        private Booking() { }
         private Booking(Guid id, Guid appartmentId, Guid userId, DateRange duration, Money priceForPeriod, Money cleaningFee, Money amenitiesUpCharge, Money totalPrice,
         BookingStatus status, DateTime createdOnUtc) : base(id)
         {

@@ -6,6 +6,8 @@ namespace Bookify.Domain.Reviews
 {
     public sealed class Review : Entity
     {
+        // Empty constructor for Database Migration
+        private Review() { }
         private Review(
             Guid id,
             Guid apartmentId,

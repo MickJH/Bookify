@@ -6,6 +6,8 @@ namespace Bookify.Domain.Appartments
 {
     public sealed class Appartment : Entity
     {
+        // Empty constructor for Databse Migration
+        private Appartment() { }
         public Appartment(Guid id, Name name, Description description, Address address, Money price, Money cleaningFee, List<Amenity> amenities) : base(id)
         {
             Name = name;
