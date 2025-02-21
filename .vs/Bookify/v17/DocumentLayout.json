@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Mick.Holster\\Bureaublad\\CleanArchitecture\\Bookify\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0A9FC947-01B8-4D3C-B59F-4E75283CC7F1}|Bookify.Application\\Bookify.Application.csproj|c:\\users\\mick.holster\\bureaublad\\cleanarchitecture\\bookify\\bookify.application\\users\\loginuser\\loginusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A9FC947-01B8-4D3C-B59F-4E75283CC7F1}|Bookify.Application\\Bookify.Application.csproj|solutionrelative:bookify.application\\users\\loginuser\\loginusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9FC947-01B8-4D3C-B59F-4E75283CC7F1}|Bookify.Application\\Bookify.Application.csproj|c:\\users\\mick.holster\\bureaublad\\cleanarchitecture\\bookify\\bookify.application\\users\\loginuser\\accesstokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A9FC947-01B8-4D3C-B59F-4E75283CC7F1}|Bookify.Application\\Bookify.Application.csproj|solutionrelative:bookify.application\\users\\loginuser\\accesstokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{41B3D5C4-E6F3-48F9-A5AB-4ADB746C6DA6}|Bookify.Infrastructure\\Bookify.Infrastructure.csproj|c:\\users\\mick.holster\\bureaublad\\cleanarchitecture\\bookify\\bookify.infrastructure\\configurations\\reviewconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41B3D5C4-E6F3-48F9-A5AB-4ADB746C6DA6}|Bookify.Infrastructure\\Bookify.Infrastructure.csproj|solutionrelative:bookify.infrastructure\\configurations\\reviewconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -43,10 +51,6 @@
       "RelativeMoniker": "D:0:0:{6962693C-2CD2-4996-9C99-90F4B4FEC7A9}|Bookify.Domain\\Bookify.Domain.csproj|solutionrelative:bookify.domain\\reviews\\events\\reviewcreateddomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A9FC947-01B8-4D3C-B59F-4E75283CC7F1}|Bookify.Application\\Bookify.Application.csproj|c:\\users\\mick.holster\\bureaublad\\cleanarchitecture\\bookify\\bookify.application\\users\\loginuser\\accesstokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A9FC947-01B8-4D3C-B59F-4E75283CC7F1}|Bookify.Application\\Bookify.Application.csproj|solutionrelative:bookify.application\\users\\loginuser\\accesstokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0A9FC947-01B8-4D3C-B59F-4E75283CC7F1}|Bookify.Application\\Bookify.Application.csproj|c:\\users\\mick.holster\\bureaublad\\cleanarchitecture\\bookify\\bookify.application\\reviews\\addreview\\addreviewcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A9FC947-01B8-4D3C-B59F-4E75283CC7F1}|Bookify.Application\\Bookify.Application.csproj|solutionrelative:bookify.application\\reviews\\addreview\\addreviewcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -61,10 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{45B1D739-DFED-4B43-B2D7-338592A6394C}|Bookify.Api\\Bookify.Api.csproj|c:\\users\\mick.holster\\bureaublad\\cleanarchitecture\\bookify\\bookify.api\\controllers\\reviews\\addreviewrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45B1D739-DFED-4B43-B2D7-338592A6394C}|Bookify.Api\\Bookify.Api.csproj|solutionrelative:bookify.api\\controllers\\reviews\\addreviewrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A9FC947-01B8-4D3C-B59F-4E75283CC7F1}|Bookify.Application\\Bookify.Application.csproj|c:\\users\\mick.holster\\bureaublad\\cleanarchitecture\\bookify\\bookify.application\\users\\loginuser\\loginusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A9FC947-01B8-4D3C-B59F-4E75283CC7F1}|Bookify.Application\\Bookify.Application.csproj|solutionrelative:bookify.application\\users\\loginuser\\loginusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{41B3D5C4-E6F3-48F9-A5AB-4ADB746C6DA6}|Bookify.Infrastructure\\Bookify.Infrastructure.csproj|c:\\users\\mick.holster\\bureaublad\\cleanarchitecture\\bookify\\bookify.infrastructure\\repositories\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -205,11 +205,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ReviewConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Mick.Holster\\Bureaublad\\CleanArchitecture\\Bookify\\Bookify.Infrastructure\\Configurations\\ReviewConfiguration.cs",
               "RelativeDocumentMoniker": "Bookify.Infrastructure\\Configurations\\ReviewConfiguration.cs",
@@ -222,20 +222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ReviewCreatedDomainEvent.cs",
-              "DocumentMoniker": "C:\\Users\\Mick.Holster\\Bureaublad\\CleanArchitecture\\Bookify\\Bookify.Domain\\Reviews\\Events\\ReviewCreatedDomainEvent.cs",
-              "RelativeDocumentMoniker": "Bookify.Domain\\Reviews\\Events\\ReviewCreatedDomainEvent.cs",
-              "ToolTip": "C:\\Users\\Mick.Holster\\Bureaublad\\CleanArchitecture\\Bookify\\Bookify.Domain\\Reviews\\Events\\ReviewCreatedDomainEvent.cs",
-              "RelativeToolTip": "Bookify.Domain\\Reviews\\Events\\ReviewCreatedDomainEvent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T15:02:29.053Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Comment.cs",
               "DocumentMoniker": "C:\\Users\\Mick.Holster\\Bureaublad\\CleanArchitecture\\Bookify\\Bookify.Domain\\Reviews\\Comment.cs",
               "RelativeDocumentMoniker": "Bookify.Domain\\Reviews\\Comment.cs",
@@ -248,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "IReviewRepository.cs",
               "DocumentMoniker": "C:\\Users\\Mick.Holster\\Bureaublad\\CleanArchitecture\\Bookify\\Bookify.Domain\\Reviews\\IReviewRepository.cs",
               "RelativeDocumentMoniker": "Bookify.Domain\\Reviews\\IReviewRepository.cs",
@@ -261,7 +248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Rating.cs",
               "DocumentMoniker": "C:\\Users\\Mick.Holster\\Bureaublad\\CleanArchitecture\\Bookify\\Bookify.Domain\\Reviews\\Rating.cs",
               "RelativeDocumentMoniker": "Bookify.Domain\\Reviews\\Rating.cs",
@@ -274,7 +261,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
               "Title": "AccessTokenResponse.cs",
               "DocumentMoniker": "C:\\Users\\Mick.Holster\\Bureaublad\\CleanArchitecture\\Bookify\\Bookify.Application\\Users\\LoginUser\\AccessTokenResponse.cs",
               "RelativeDocumentMoniker": "Bookify.Application\\Users\\LoginUser\\AccessTokenResponse.cs",
@@ -287,7 +274,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Review.cs",
               "DocumentMoniker": "C:\\Users\\Mick.Holster\\Bureaublad\\CleanArchitecture\\Bookify\\Bookify.Domain\\Reviews\\Review.cs",
               "RelativeDocumentMoniker": "Bookify.Domain\\Reviews\\Review.cs",
@@ -300,7 +287,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "ReviewErrors.cs",
               "DocumentMoniker": "C:\\Users\\Mick.Holster\\Bureaublad\\CleanArchitecture\\Bookify\\Bookify.Domain\\Reviews\\ReviewErrors.cs",
               "RelativeDocumentMoniker": "Bookify.Domain\\Reviews\\ReviewErrors.cs",
@@ -313,7 +300,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "C:\\Users\\Mick.Holster\\Bureaublad\\CleanArchitecture\\Bookify\\Bookify.Infrastructure\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "Bookify.Infrastructure\\DependencyInjection.cs",
@@ -326,7 +313,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\Mick.Holster\\Bureaublad\\CleanArchitecture\\Bookify\\Bookify.Api\\Controllers\\Users\\UserController.cs",
               "RelativeDocumentMoniker": "Bookify.Api\\Controllers\\Users\\UserController.cs",
@@ -339,7 +326,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "LoginUserCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Mick.Holster\\Bureaublad\\CleanArchitecture\\Bookify\\Bookify.Application\\Users\\LoginUser\\LoginUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "Bookify.Application\\Users\\LoginUser\\LoginUserCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Mick.Holster\\Bureaublad\\CleanArchitecture\\Bookify\\Bookify.Application\\Users\\LoginUser\\LoginUserCommandHandler.cs",
+              "RelativeToolTip": "Bookify.Application\\Users\\LoginUser\\LoginUserCommandHandler.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T14:26:08.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReviewCreatedDomainEvent.cs",
+              "DocumentMoniker": "C:\\Users\\Mick.Holster\\Bureaublad\\CleanArchitecture\\Bookify\\Bookify.Domain\\Reviews\\Events\\ReviewCreatedDomainEvent.cs",
+              "RelativeDocumentMoniker": "Bookify.Domain\\Reviews\\Events\\ReviewCreatedDomainEvent.cs",
+              "ToolTip": "C:\\Users\\Mick.Holster\\Bureaublad\\CleanArchitecture\\Bookify\\Bookify.Domain\\Reviews\\Events\\ReviewCreatedDomainEvent.cs",
+              "RelativeToolTip": "Bookify.Domain\\Reviews\\Events\\ReviewCreatedDomainEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T15:02:29.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "LoginUserRequest.cs",
               "DocumentMoniker": "C:\\Users\\Mick.Holster\\Bureaublad\\CleanArchitecture\\Bookify\\Bookify.Api\\Controllers\\Users\\LoginUserRequest.cs",
               "RelativeDocumentMoniker": "Bookify.Api\\Controllers\\Users\\LoginUserRequest.cs",
@@ -352,7 +365,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "AddReviewCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\Mick.Holster\\Bureaublad\\CleanArchitecture\\Bookify\\Bookify.Application\\Reviews\\AddReview\\AddReviewCommandHandler.cs",
               "RelativeDocumentMoniker": "Bookify.Application\\Reviews\\AddReview\\AddReviewCommandHandler.cs",
@@ -365,7 +378,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "AddReviewCommand.cs",
               "DocumentMoniker": "C:\\Users\\Mick.Holster\\Bureaublad\\CleanArchitecture\\Bookify\\Bookify.Application\\Reviews\\AddReview\\AddReviewCommand.cs",
               "RelativeDocumentMoniker": "Bookify.Application\\Reviews\\AddReview\\AddReviewCommand.cs",
@@ -378,7 +391,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "ReviewsController.cs",
               "DocumentMoniker": "C:\\Users\\Mick.Holster\\Bureaublad\\CleanArchitecture\\Bookify\\Bookify.Api\\Controllers\\Reviews\\ReviewsController.cs",
               "RelativeDocumentMoniker": "Bookify.Api\\Controllers\\Reviews\\ReviewsController.cs",
@@ -391,7 +404,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "AddReviewRequest.cs",
               "DocumentMoniker": "C:\\Users\\Mick.Holster\\Bureaublad\\CleanArchitecture\\Bookify\\Bookify.Api\\Controllers\\Reviews\\AddReviewRequest.cs",
               "RelativeDocumentMoniker": "Bookify.Api\\Controllers\\Reviews\\AddReviewRequest.cs",
@@ -400,19 +413,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-21T15:01:07.764Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "LoginUserCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Mick.Holster\\Bureaublad\\CleanArchitecture\\Bookify\\Bookify.Application\\Users\\LoginUser\\LoginUserCommandHandler.cs",
-              "RelativeDocumentMoniker": "Bookify.Application\\Users\\LoginUser\\LoginUserCommandHandler.cs",
-              "ToolTip": "C:\\Users\\Mick.Holster\\Bureaublad\\CleanArchitecture\\Bookify\\Bookify.Application\\Users\\LoginUser\\LoginUserCommandHandler.cs",
-              "RelativeToolTip": "Bookify.Application\\Users\\LoginUser\\LoginUserCommandHandler.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T14:26:08.504Z",
               "EditorCaption": ""
             },
             {
