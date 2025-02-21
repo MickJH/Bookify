@@ -16,10 +16,10 @@ public static class SeedDataExtensions
 
         var faker = new Faker();
 
-        List<object> apartments = new();
+        List<object> appartments = new();
         for (var i = 0; i < 100; i++)
         {
-            apartments.Add(new
+            appartments.Add(new
             {
                 Id = Guid.NewGuid(),
                 Name = faker.Company.CompanyName(),
@@ -39,11 +39,11 @@ public static class SeedDataExtensions
         }
 
         const string sql = """
-            INSERT INTO public.apartments
+            INSERT INTO public.appartments
             (id, "name", description, address_country, address_state, address_zip_code, address_city, address_street, price_amount, price_currency, cleaning_fee_amount, cleaning_fee_currency, amenities, last_booked_on_utc)
             VALUES(@Id, @Name, @Description, @Country, @State, @ZipCode, @City, @Street, @PriceAmount, @PriceCurrency, @CleaningFeeAmount, @CleaningFeeCurrency, @Amenities, @LastBookedOn);
             """;
 
-        connection.Execute(sql, apartments);
+        connection.Execute(sql, appartments);
     }
 }

@@ -17,6 +17,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bookify.Api", "Bookify.Api\
 EndProject
 Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{8C5BB630-2535-4436-8E6F-EEBC2376F54F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".files", ".files", "{8CB07AD5-0F8A-4883-86FB-F053CD6AB098}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\bookify-realm-export.json = ..\..\..\Downloads\bookify-realm-export.json
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

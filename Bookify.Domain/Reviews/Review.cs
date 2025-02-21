@@ -6,11 +6,9 @@ namespace Bookify.Domain.Reviews
 {
     public sealed class Review : Entity
     {
-        // Empty constructor for Database Migration
-        private Review() { }
         private Review(
             Guid id,
-            Guid apartmentId,
+            Guid appartmentId,
             Guid bookingId,
             Guid userId,
             Rating rating,
@@ -18,7 +16,7 @@ namespace Bookify.Domain.Reviews
             DateTime createdOnUtc)
             : base(id)
         {
-            ApartmentId = apartmentId;
+            AppartmentId = appartmentId;
             BookingId = bookingId;
             UserId = userId;
             Rating = rating;
@@ -26,7 +24,11 @@ namespace Bookify.Domain.Reviews
             CreatedOnUtc = createdOnUtc;
         }
 
-        public Guid ApartmentId { get; private set; }
+        private Review()
+        {
+        }
+
+        public Guid AppartmentId { get; private set; }
 
         public Guid BookingId { get; private set; }
 

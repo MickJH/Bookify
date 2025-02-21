@@ -15,7 +15,7 @@ internal sealed class ReviewConfiguration : IEntityTypeConfiguration<Review>
         builder.HasKey(review => review.Id);
         builder.Property(review => review.Rating).HasConversion(rating => rating.Value, value => Rating.Create(value).Value);
         builder.Property(review => review.Comment).HasMaxLength(200).HasConversion(comment => comment.Value, value => new Comment(value));
-        builder.HasOne<Appartment>().WithMany().HasForeignKey(review => review.ApartmentId);
+        builder.HasOne<Appartment>().WithMany().HasForeignKey(review => review.AppartmentId);
         builder.HasOne<Booking>().WithMany().HasForeignKey(review => review.BookingId);
         builder.HasOne<User>().WithMany().HasForeignKey(review => review.UserId);
     }
